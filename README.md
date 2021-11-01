@@ -1,5 +1,5 @@
 
-# Simple Blog
+# Simple Blog [![_cyrus.le_](https://github.com/cyrus-le/SimpleBlog/actions/workflows/SimpleBlogMaven.yml/badge.svg)](https://github.com/cyrus-le/SimpleBlog/actions/workflows/SimpleBlogMaven.yml)
 
 *You want to build a simple blog. It is a place for member to post their articles, and interact between members through the comment function on each article.*
 ## Functions on this project 
