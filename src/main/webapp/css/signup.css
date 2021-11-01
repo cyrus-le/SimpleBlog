@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+    /* font-family: 'Roboto Mono', monospace; */
+}
+
+.container {
+    margin: auto;
+    height: 50%;
+    overflow: hidden;
+    border: 0px solid #000;
+    margin: 50px auto;
+    padding: 10px;
+}
+.container h1 {
+    font-family: "Sofia";
+    text-align: center;
+    font-size: 5rem;
+}
+.container .form-group label{
+    font-family: 'Roboto Mono', monospace;
+}
