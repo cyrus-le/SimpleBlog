@@ -3,7 +3,7 @@
 
 *You want to build a simple blog. It is a place for member to post their articles, and interact between members through the comment function on each article.*
 ## Functions on this project 
-**This repository is a web application in FPT University's Web Java Lab. This web runs JavaEE by using Maven **
+*This repository is a web application in FPT University's Web Java Lab. This web runs JavaEE by using Maven*
 
 > - Registration
 > - Login
