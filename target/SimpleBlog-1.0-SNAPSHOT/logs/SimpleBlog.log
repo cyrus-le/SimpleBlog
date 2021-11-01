@@ -1,2 +1,0 @@
-ERROR   2021-10-29 05:59:17,541 [http-nio-8084-exec-46] com.cyrus.controllers.SearchArticleByAdminController  - Error SearchArticleByAdminController at: For input string: ""
-ERROR   2021-10-29 06:06:07,467 [http-nio-8084-exec-44] com.cyrus.controllers.SearchArticleByAdminController  - Error SearchArticleByAdminController at: For input string: ""
